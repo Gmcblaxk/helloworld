@@ -17,16 +17,5 @@ namespace helloworld.Tests
 
             Assert.Equal("Hello, World!", output);
         }
-
-        [Fact]
-        public void Program_writes_something_else() {
-            var writer = new StringWriter();
-            Console.SetOut(writer);
-
-            Program.Main(new string[0]);
-            var output = writer.GetStringBuilder().ToString().Trim();
-
-            Assert.Equal("somethingelse", output);
-        }
     }
 }
