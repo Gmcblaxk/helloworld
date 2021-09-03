@@ -1,0 +1,15 @@
+/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/bin/Debug/net5.0/helloworld.deps.json
+/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/bin/Debug/net5.0/helloworld.runtimeconfig.json
+/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/bin/Debug/net5.0/helloworld.runtimeconfig.dev.json
+/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/bin/Debug/net5.0/helloworld.dll
+/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/bin/Debug/net5.0/ref/helloworld.dll
+/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/bin/Debug/net5.0/helloworld.pdb
+/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/obj/Debug/net5.0/helloworld.csproj.AssemblyReference.cache
+/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/obj/Debug/net5.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/obj/Debug/net5.0/helloworld.AssemblyInfoInputs.cache
+/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/obj/Debug/net5.0/helloworld.AssemblyInfo.cs
+/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/obj/Debug/net5.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/obj/Debug/net5.0/helloworld.dll
+/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/obj/Debug/net5.0/ref/helloworld.dll
+/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/obj/Debug/net5.0/helloworld.pdb
+/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/obj/Debug/net5.0/helloworld.genruntimeconfig.cache

@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld.Tests/helloworld.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld.Tests/helloworld.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld.Tests/helloworld.Tests.csproj",
+        "projectName": "helloworld.Tests",
+        "projectPath": "/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld.Tests/helloworld.Tests.csproj",
+        "packagesPath": "/Users/gustavmuller/.nuget/packages/",
+        "outputPath": "/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/gustavmuller/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/helloworld.csproj": {
+                "projectPath": "/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/helloworld.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/helloworld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/helloworld.csproj",
+        "projectName": "helloworld",
+        "projectPath": "/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/helloworld.csproj",
+        "packagesPath": "/Users/gustavmuller/.nuget/packages/",
+        "outputPath": "/Users/gustavmuller/Desktop/BDSA/helloworld/helloworld/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/gustavmuller/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
